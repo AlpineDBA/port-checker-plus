@@ -372,4 +372,4 @@ This project is licensed under GNU GENERAL PUBLIC LICENSE - see the LICENSE file
 
 **🌟 Star this repo if you found it helpful! 🌟**
 
-*Developed by Jack Worthen [@jackworthen](https://github.com/alpinedba*
+🐙 Developed by [Jack Worthen](https://github.com/alpinedba)
